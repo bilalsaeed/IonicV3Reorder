@@ -9,3 +9,4 @@ All you need to do is replace these files in node_modules/ionic-angular/componen
 I cannot create a pull request in v3 repository since it's a readonly now.
 
 Thanks.
+Bilal
