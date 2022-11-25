@@ -1,4 +1,4 @@
-# IonicV3Reorder
+# Ionic v3 item reorder
 Fixes strange issues in Ionic v3 item reordering in ion-item-group component
 
 Attached is the demo
