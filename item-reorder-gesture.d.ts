@@ -6,14 +6,14 @@ export declare class ItemReorderGesture {
 
     private scrollEl: HTMLElement;
     private cachedHeights: number[] = [];
-    private scrollElTop = 0;
-    private scrollElBottom = 0;
-    private scrollElInitial = 0;
-    private containerTop = 0;
-    private containerBottom = 0;
+    private scrollElTop;
+    private scrollElBottom;
+    private scrollElInitial;
+    private containerTop;
+    private containerBottom;
 
-    private containerTop = 0;
-    private containerBottom = 0;
+    private containerTop;
+    private containerBottom;
     plt: Platform;
     reorderList: ItemReorderGestureDelegate;
     private selectedItemEle;
