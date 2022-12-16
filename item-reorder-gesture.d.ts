@@ -5,7 +5,7 @@ import { Platform } from '../../platform/platform';
 export declare class ItemReorderGesture {
 
     private scrollEl: HTMLElement;
-    private cachedHeights: number[] = [];
+    private cachedHeights: number[];
     private scrollElTop;
     private scrollElBottom;
     private scrollElInitial;
